@@ -2,10 +2,13 @@ body{
   font-family: 'Gentium Book Basic', serif;
   align-items: center;
   justify-content: center;
-  background-color: #e0f2fa;
+  background-color: #f4f4f4;
   max-width: 820px;
   margin: 20 auto;
   color: #1e4355;
+}
+a > img {
+  height: 64px;
 }
 * {
   box-sizing: border-box;
